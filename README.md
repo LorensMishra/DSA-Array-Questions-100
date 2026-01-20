@@ -5,7 +5,7 @@ This repository contains a **comprehensive list of 100 array-based questions** c
 Each question can be implemented using **loops and functions** in Python, and solutions can be found in separate files.
 
 ## Array Question Bank
-
+---
 | No. | Topic                         | Question                                                      |
 | --- | ----------------------------- | ------------------------------------------------------------- |
 | 1   | Basic Operations              | Find the sum of all elements in an array                      |
