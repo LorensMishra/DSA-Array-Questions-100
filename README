@@ -1,0 +1,113 @@
+# Array Question Bank (100 Questions) 
+
+This repository contains a **comprehensive list of 100 array-based questions** covering all important topics for coding interviews and practice. All questions are organized by **topic and difficulty** for easy navigation.
+
+Each question can be implemented using **loops and functions** in Python, and solutions can be found in separate files.
+
+## Array Question Bank
+
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
+| 1   | Basic Operations              | Find the sum of all elements in an array                      |
+| 2   | Basic Operations              | Find the maximum element in an array                          |
+| 3   | Basic Operations              | Find the minimum element in an array                          |
+| 4   | Basic Operations              | Find the average of array elements                            |
+| 5   | Basic Operations              | Reverse an array without using extra space                    |
+| 6   | Basic Operations              | Check if an array is sorted in ascending order                |
+| 7   | Basic Operations              | Count the number of even and odd elements in an array         |
+| 8   | Basic Operations              | Find the second largest element in an array                   |
+| 9   | Basic Operations              | Find the second smallest element in an array                  |
+| 10  | Basic Operations              | Count the frequency of a given element in an array            |
+| 11  | Basic Operations              | Remove duplicates from an array                               |
+| 12  | Basic Operations              | Rotate an array by one position to the right                  |
+| 13  | Basic Operations              | Rotate an array by `k` positions                              |
+| 14  | Basic Operations              | Find the sum of elements at even and odd indices              |
+| 15  | Basic Operations              | Check if an array contains a given element                    |
+| 16  | Searching                     | Implement linear search in an array                           |
+| 17  | Searching                     | Implement binary search (array must be sorted)                |
+| 18  | Searching                     | Find the first occurrence of an element                       |
+| 19  | Searching                     | Find the last occurrence of an element                        |
+| 20  | Searching                     | Count the total occurrences of a given number                 |
+| 21  | Searching                     | Find the index of the maximum element                         |
+| 22  | Searching                     | Find the index of the minimum element                         |
+| 23  | Searching                     | Find an element in a rotated sorted array                     |
+| 24  | Searching                     | Search for a number in a 2D matrix (row-wise sorted)          |
+| 25  | Searching                     | Find if there exists a pair with a given sum                  |
+| 26  | Sorting & Rearrangement       | Implement bubble sort                                         |
+| 27  | Sorting & Rearrangement       | Implement selection sort                                      |
+| 28  | Sorting & Rearrangement       | Implement insertion sort                                      |
+| 29  | Sorting & Rearrangement       | Sort an array of 0s, 1s, and 2s (Dutch National Flag Problem) |
+| 30  | Sorting & Rearrangement       | Move all zeros to the end of the array                        |
+| 31  | Sorting & Rearrangement       | Move all zeros to the beginning of the array                  |
+| 32  | Sorting & Rearrangement       | Sort an array in descending order                             |
+| 33  | Sorting & Rearrangement       | Find the kth largest element in an array                      |
+| 34  | Sorting & Rearrangement       | Find the kth smallest element in an array                     |
+| 35  | Sorting & Rearrangement       | Rearrange array so that arr[i] = i (if possible)              |
+| 36  | Sorting & Rearrangement       | Rearrange array in alternating positive and negative numbers  |
+| 37  | Sorting & Rearrangement       | Find the majority element (appears > n/2 times)               |
+| 38  | Sorting & Rearrangement       | Merge two sorted arrays without extra space                   |
+| 39  | Sorting & Rearrangement       | Union of two sorted arrays                                    |
+| 40  | Sorting & Rearrangement       | Intersection of two sorted arrays                             |
+| 41  | Sorting & Rearrangement       | Find the median of two sorted arrays                          |
+| 42  | Sorting & Rearrangement       | Count inversions in an array                                  |
+| 43  | Sorting & Rearrangement       | Maximum product of two elements in an array                   |
+| 44  | Sorting & Rearrangement       | Sort array by absolute difference with a number `X`           |
+| 45  | Sorting & Rearrangement       | Minimum number of swaps required to sort an array             |
+| 46  | Subarrays & Sums              | Find the sum of all subarrays                                 |
+| 47  | Subarrays & Sums              | Find the maximum sum subarray (Kadane’s Algorithm)            |
+| 48  | Subarrays & Sums              | Find the length of the largest subarray with sum 0            |
+| 49  | Subarrays & Sums              | Find the subarray with maximum product                        |
+| 50  | Subarrays & Sums              | Find subarrays with given sum                                 |
+| 51  | Subarrays & Sums              | Count subarrays with given sum                                |
+| 52  | Subarrays & Sums              | Find the smallest subarray with sum ≥ S                       |
+| 53  | Subarrays & Sums              | Longest subarray with at most `k` distinct elements           |
+| 54  | Subarrays & Sums              | Longest subarray with all distinct elements                   |
+| 55  | Subarrays & Sums              | Count subarrays with even sum                                 |
+| 56  | Subarrays & Sums              | Count subarrays with odd sum                                  |
+| 57  | Subarrays & Sums              | Maximum sum of circular subarray                              |
+| 58  | Subarrays & Sums              | Count subarrays with sum divisible by `k`                     |
+| 59  | Subarrays & Sums              | Sum of all subarray minimums                                  |
+| 60  | Subarrays & Sums              | Sum of all subarray maximums                                  |
+| 61  | Subarrays & Sums              | Number of subarrays having XOR = K                            |
+| 62  | Subarrays & Sums              | Longest subarray with sum divisible by n                      |
+| 63  | Subarrays & Sums              | Minimum length subarray with sum ≥ target                     |
+| 64  | Subarrays & Sums              | Subarray sum equals to given number                           |
+| 65  | Subarrays & Sums              | Count of subarrays with elements in increasing order          |
+| 66  | Two Pointers / Sliding Window | Pair sum in a sorted array                                    |
+| 67  | Two Pointers / Sliding Window | Triplet sum in a sorted array                                 |
+| 68  | Two Pointers / Sliding Window | Find subarray with maximum sum of length `k`                  |
+| 69  | Two Pointers / Sliding Window | Longest substring with K unique elements                      |
+| 70  | Two Pointers / Sliding Window | Smallest window containing all characters of another array    |
+| 71  | Two Pointers / Sliding Window | Count pairs with difference = k                               |
+| 72  | Two Pointers / Sliding Window | Count pairs with sum less than X                              |
+| 73  | Two Pointers / Sliding Window | Maximum sum of subarray of size k                             |
+| 74  | Two Pointers / Sliding Window | Longest subarray with sum ≤ k                                 |
+| 75  | Two Pointers / Sliding Window | Minimum size subarray sum ≥ s                                 |
+| 76  | Two Pointers / Sliding Window | Count number of subarrays with sum = k                        |
+| 77  | Two Pointers / Sliding Window | Maximum consecutive ones in binary array                      |
+| 78  | Two Pointers / Sliding Window | Longest subarray with at most two distinct numbers            |
+| 79  | Two Pointers / Sliding Window | Minimum swaps to bring elements ≤ k together                  |
+| 80  | Two Pointers / Sliding Window | Maximum number of fruits in baskets (at most 2 types)         |
+| 81  | Matrix / 2D Array             | Print a 2D array                                              |
+| 82  | Matrix / 2D Array             | Sum of each row and column                                    |
+| 83  | Matrix / 2D Array             | Transpose of a matrix                                         |
+| 84  | Matrix / 2D Array             | Rotate matrix 90° clockwise                                   |
+| 85  | Matrix / 2D Array             | Rotate matrix 90° anti-clockwise                              |
+| 86  | Matrix / 2D Array             | Search an element in row-wise and column-wise sorted matrix   |
+| 87  | Matrix / 2D Array             | Spiral order traversal of a matrix                            |
+| 88  | Matrix / 2D Array             | Print diagonals of a matrix                                   |
+| 89  | Matrix / 2D Array             | Count number of islands (0-1 matrix)                          |
+| 90  | Matrix / 2D Array             | Set entire row and column to 0 if matrix[i][j] = 0            |
+| 91  | Advanced / Miscellaneous      | Maximum sum increasing subsequence                            |
+| 92  | Advanced / Miscellaneous      | Longest increasing subsequence                                |
+| 93  | Advanced / Miscellaneous      | Longest decreasing subsequence                                |
+| 94  | Advanced / Miscellaneous      | Find repeating and missing number                             |
+| 95  | Advanced / Miscellaneous      | Product of array except self                                  |
+| 96  | Advanced / Miscellaneous      | Maximum consecutive difference between elements               |
+| 97  | Advanced / Miscellaneous      | Trapping rain water problem                                   |
+| 98  | Advanced / Miscellaneous      | Next greater element                                          |
+| 99  | Advanced / Miscellaneous      | Previous smaller element                                      |
+| 100 | Advanced / Miscellaneous      | Maximum sum of non-adjacent elements                          |
+
+---
+
