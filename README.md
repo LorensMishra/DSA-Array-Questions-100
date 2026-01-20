@@ -23,6 +23,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 13  | Basic Operations              | Rotate an array by `k` positions                              |
 | 14  | Basic Operations              | Find the sum of elements at even and odd indices              |
 | 15  | Basic Operations              | Check if an array contains a given element                    |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 16  | Searching                     | Implement linear search in an array                           |
 | 17  | Searching                     | Implement binary search (array must be sorted)                |
 | 18  | Searching                     | Find the first occurrence of an element                       |
@@ -33,6 +36,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 23  | Searching                     | Find an element in a rotated sorted array                     |
 | 24  | Searching                     | Search for a number in a 2D matrix (row-wise sorted)          |
 | 25  | Searching                     | Find if there exists a pair with a given sum                  |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 26  | Sorting & Rearrangement       | Implement bubble sort                                         |
 | 27  | Sorting & Rearrangement       | Implement selection sort                                      |
 | 28  | Sorting & Rearrangement       | Implement insertion sort                                      |
@@ -53,6 +59,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 43  | Sorting & Rearrangement       | Maximum product of two elements in an array                   |
 | 44  | Sorting & Rearrangement       | Sort array by absolute difference with a number `X`           |
 | 45  | Sorting & Rearrangement       | Minimum number of swaps required to sort an array             |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 46  | Subarrays & Sums              | Find the sum of all subarrays                                 |
 | 47  | Subarrays & Sums              | Find the maximum sum subarray (Kadane’s Algorithm)            |
 | 48  | Subarrays & Sums              | Find the length of the largest subarray with sum 0            |
@@ -73,6 +82,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 63  | Subarrays & Sums              | Minimum length subarray with sum ≥ target                     |
 | 64  | Subarrays & Sums              | Subarray sum equals to given number                           |
 | 65  | Subarrays & Sums              | Count of subarrays with elements in increasing order          |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 66  | Two Pointers / Sliding Window | Pair sum in a sorted array                                    |
 | 67  | Two Pointers / Sliding Window | Triplet sum in a sorted array                                 |
 | 68  | Two Pointers / Sliding Window | Find subarray with maximum sum of length `k`                  |
@@ -88,6 +100,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 78  | Two Pointers / Sliding Window | Longest subarray with at most two distinct numbers            |
 | 79  | Two Pointers / Sliding Window | Minimum swaps to bring elements ≤ k together                  |
 | 80  | Two Pointers / Sliding Window | Maximum number of fruits in baskets (at most 2 types)         |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 81  | Matrix / 2D Array             | Print a 2D array                                              |
 | 82  | Matrix / 2D Array             | Sum of each row and column                                    |
 | 83  | Matrix / 2D Array             | Transpose of a matrix                                         |
@@ -98,6 +113,9 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 88  | Matrix / 2D Array             | Print diagonals of a matrix                                   |
 | 89  | Matrix / 2D Array             | Count number of islands (0-1 matrix)                          |
 | 90  | Matrix / 2D Array             | Set entire row and column to 0 if matrix[i][j] = 0            |
+---
+| No. | Topic                         | Question                                                      |
+| --- | ----------------------------- | ------------------------------------------------------------- |
 | 91  | Advanced / Miscellaneous      | Maximum sum increasing subsequence                            |
 | 92  | Advanced / Miscellaneous      | Longest increasing subsequence                                |
 | 93  | Advanced / Miscellaneous      | Longest decreasing subsequence                                |
@@ -108,6 +126,7 @@ Each question can be implemented using **loops and functions** in Python, and so
 | 98  | Advanced / Miscellaneous      | Next greater element                                          |
 | 99  | Advanced / Miscellaneous      | Previous smaller element                                      |
 | 100 | Advanced / Miscellaneous      | Maximum sum of non-adjacent elements                          |
-
 ---
+
+
 
