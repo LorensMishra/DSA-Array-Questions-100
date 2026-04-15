@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2537f48-a59c-457d-bc94-2fb47c291289" />
+
 # Array Question Bank (100 Questions) 
 
 This repository contains a **comprehensive list of 100 array-based questions** covering all important topics for coding interviews and practice. All questions are organized by **topic and difficulty** for easy navigation.
