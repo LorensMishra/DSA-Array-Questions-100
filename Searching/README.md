@@ -1,6 +1,6 @@
 #  Array Searching Algorithms (Python)
 
-<img width="1254" height="1254" alt="4740299f-3cfc-41aa-917f-2a6d92db00b4" src="https://github.com/user-attachments/assets/8844af12-e1bb-4f86-a05e-aeb3502c11f8" />
+<img width="1073" height="390" alt="image" src="https://github.com/user-attachments/assets/df099b82-c7d9-420c-b80d-4c210375374b" />
 
 This repository contains implementations of **important searching and array-based problems** using Python. These problems are commonly asked in **coding interviews**, **DSA rounds**, and platforms like LeetCode, HackerRank, and HackerEarth.
 
